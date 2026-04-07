@@ -8,3 +8,6 @@ This project uses a multi-language environment and is deployed on **[AWS / Googl
 * **Programming Languages:** PHP, Go, Python
 * **Cloud Services:** [e.g., Compute Engine / EC2, Cloud SQL / RDS, Cloud Storage / S3]
 * **Other Tools:** [e.g., Docker, Nginx, GitHub Actions]
+
+## Contact & Contribution
+If you are interested in contributing for future LKS tasks or project research, please feel free to reach out to us via email at **info@lksdiy.cc**.
